@@ -1,3 +1,3 @@
 # nevimcodelat
 
-Repozitáø jsem zaloil, protoe to je souèást úkolu
+Repozitáø jsem zaloil, protoe to je souèást zadání
