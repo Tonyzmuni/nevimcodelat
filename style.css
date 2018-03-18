@@ -1,0 +1,31 @@
+﻿
+  <style>
+  body { 
+    width:700px;
+    margin: auto;
+    text-align: justify;
+    font-size: 20px;
+    }
+    h1 { 
+    font: italic 30px Georgia;
+    color: #f14b5c;
+    text-decoration: underline;
+    text-transform: uppercase;
+    }
+    h2 { 
+    font: italic 20px Georgia;
+    color: #f10b5c;
+    text-decoration: underline;
+    text-transform: uppercase;
+    }
+  
+  i { 
+  color: blue; 
+  font: italic 20px Verdana;
+  
+  
+}
+    /* 
+      CSS deklarace doplňte zde 
+    */
+  </style>
